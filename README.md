@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 
 # Featured Projects
 For now I don't have many projects in this space, but my main idea is develop and practice new projects. So just, I can only show a small project about Pokemon Tool Pokedex.
+https://github.com/fernand3217/pokedex-vite 
 
 # Contact me
 j.fer17@gmail.com
