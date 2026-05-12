@@ -1,4 +1,4 @@
-## Hi Fernando Sarmiento its my name 🫡
+## Hi, Fernando Sarmiento its my name 🫡
 
 <!--
 **fernand3217/fernand3217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
